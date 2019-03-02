@@ -79,7 +79,7 @@ To view debug output, set the `SENTINEL_DEBUG` environment variable to anything 
 
 ## Maintainer
 
-[@nmarley](https://github.com/nmarley)
+[@UkkeyHG](https://github.com/UkkeyHG)
 
 ## Contributing
 
