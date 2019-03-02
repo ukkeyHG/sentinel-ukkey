@@ -1,9 +1,9 @@
 #!/bin/bash
 set -evx
 
-mkdir ~/.dashcore
+mkdir ~/.ukkeycore
 
 # safety check
-if [ ! -f ~/.dashcore/.dash.conf ]; then
-  cp share/dash.conf.example ~/.dashcore/dash.conf
+if [ ! -f ~/.ukkeycore/.ukkey.conf ]; then
+  cp share/ukkey.conf.example ~/.ukkeycore/ukkey.conf
 fi
